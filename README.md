@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aissa-Bedr
 - 👀 I’m interested in programing language
 - 🌱 I’m currently learning html + css + js
-- 💞️ I’m looking to collaborate on to be a pro devloper
+- 💞️ I’m looking to collaborate on to be a pro developer 
 - 📫 How to reach me no way
 
 <!---
